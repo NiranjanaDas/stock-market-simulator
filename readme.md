@@ -130,6 +130,3 @@ This project demonstrates professional development practices:
 
 MIT License - see LICENSE file for details
 
-## Author
-
-Niranjana Das
