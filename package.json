@@ -1,0 +1,39 @@
+{
+  "name": "virtual-stock-market-simulator",
+  "version": "2.0.0",
+  "description": "A comprehensive stock market simulation game with advanced features including technical analysis, news system, and portfolio management",
+  "main": "index.js",
+  "bin": {
+    "stock-simulator": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0",
+    "clean": "rm -rf data/*.json exports/",
+    "build": "echo \"No build step required\" && exit 0"
+  },
+  "keywords": [
+    "stock-market",
+    "simulation",
+    "trading",
+    "finance",
+    "game",
+    "terminal",
+    "cli"
+  ],
+  "author": "Professional Developer",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/professional-developer/stock-market-simulator"
+  },
+  "type": "commonjs",
+  "preferGlobal": true,
+  "dependencies": {
+    "axios": "^1.12.2"
+  }
+}
