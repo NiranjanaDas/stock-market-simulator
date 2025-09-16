@@ -28,16 +28,11 @@ A comprehensive, professional-grade stock market simulation game built with Node
 - **Leaderboard**: Competitive ranking system
 - **Backup System**: Automatic data backups and recovery
 
-## Installation
+
+clone and run locally:
 
 ```bash
-npm install -g virtual-stock-market-simulator
-```
-
-Or clone and run locally:
-
-```bash
-git clone https://github.com/professional-developer/stock-market-simulator.git
+git clone https://github.com/NiranjanaDas/stock-market-simulator.git
 cd stock-market-simulator
 npm install
 npm start
