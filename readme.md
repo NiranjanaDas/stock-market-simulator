@@ -1,5 +1,6 @@
 # Virtual Stock Market Simulator
 
+
 A comprehensive, professional-grade stock market simulation game built with Node.js. Experience realistic trading with advanced features including technical analysis, news impact, portfolio analytics, and more.
 
 ## Features
