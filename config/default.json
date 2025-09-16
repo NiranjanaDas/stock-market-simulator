@@ -1,0 +1,34 @@
+{
+    "app": {
+        "name": "Virtual Stock Market Simulator",
+        "version": "2.0.0",
+        "description": "A comprehensive stock market simulation game with advanced features"
+    },
+    "market": {
+        "updateInterval": 3000,
+        "newsGenerationInterval": 10000,
+        "maxStockHistory": 50,
+        "maxNewsItems": 50
+    },
+    "player": {
+        "startingCash": 10000,
+        "maxTransactionHistory": 100
+    },
+    "display": {
+        "chartWidth": 60,
+        "chartHeight": 10,
+        "tableWidth": 80
+    },
+    "sound": {
+        "enabled": true,
+        "volume": 50,
+        "useSystemSounds": true,
+        "useTerminalBell": true,
+        "useVisualEffects": true
+    },
+    "data": {
+        "autoSave": true,
+        "backupEnabled": true,
+        "exportFormats": ["json", "csv"]
+    }
+}
