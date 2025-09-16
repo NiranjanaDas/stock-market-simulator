@@ -1,0 +1,151 @@
+{
+  "news": [
+    {
+      "title": "Zoom Video Communications: Market Volatility Increases",
+      "content": "Global market conditions are causing increased volatility across sectors.",
+      "impact": -0.024458932944255957,
+      "affectedStocks": [
+        "ZOOM"
+      ],
+      "timestamp": "2025-09-16T12:29:14.287Z",
+      "isRead": false
+    },
+    {
+      "title": "Market News: Federal Reserve Announces Policy Changes",
+      "content": "The Federal Reserve has made significant announcements regarding monetary policy.",
+      "impact": 0.022134940016768117,
+      "affectedStocks": [],
+      "timestamp": "2025-09-16T12:28:54.255Z",
+      "isRead": false
+    },
+    {
+      "title": "Zoom Video Communications: New Product Launch Success",
+      "content": "The latest product launch has exceeded sales projections, driving market enthusiasm.",
+      "impact": 0.0326827344135127,
+      "affectedStocks": [
+        "ZOOM"
+      ],
+      "timestamp": "2025-09-16T12:28:34.247Z",
+      "isRead": false
+    },
+    {
+      "title": "Tesla Inc.: Strong Consumer Demand",
+      "content": "Consumer spending data shows robust demand for products and services.",
+      "impact": 0.024026237023272636,
+      "affectedStocks": [
+        "TSLA"
+      ],
+      "timestamp": "2025-09-16T12:28:24.236Z",
+      "isRead": false
+    },
+    {
+      "title": "Netflix Inc.: Economic Indicators Improve",
+      "content": "Latest economic data suggests improving conditions for businesses.",
+      "impact": 0.026703512979457476,
+      "affectedStocks": [
+        "NFLX"
+      ],
+      "timestamp": "2025-09-16T12:28:04.227Z",
+      "isRead": false
+    },
+    {
+      "title": "Market News: Global Trade Tensions Ease",
+      "content": "Recent diplomatic developments suggest easing of international trade tensions.",
+      "impact": 0.03306360291656749,
+      "affectedStocks": [],
+      "timestamp": "2025-09-16T12:27:04.165Z",
+      "isRead": false
+    },
+    {
+      "title": "⚡ QUANTUM ALERT: Holographic Data Centers Drive Tech Stock Surge",
+      "content": "Neural pathways indicate that breakthrough holographic storage technology is creating massive opportunities in the tech sector.",
+      "impact": "positive",
+      "affectedStocks": [
+        "AAPL",
+        "NVDA",
+        "AMD"
+      ],
+      "timestamp": "2025-09-16T12:21:39.300Z",
+      "isRead": false
+    },
+    {
+      "title": "🧠 NEURAL ANALYSIS: AI-Powered Trading Algorithms Show 300% Efficiency Increase",
+      "content": "Advanced quantum computing analysis reveals that neural network trading systems are revolutionizing market predictions with unprecedented accuracy.",
+      "impact": "positive",
+      "affectedStocks": [
+        "GOOGL",
+        "MSFT",
+        "NVDA"
+      ],
+      "timestamp": "2025-09-16T12:26:39.300Z",
+      "isRead": false
+    },
+    {
+      "title": "Netflix Inc.: New Product Launch Success",
+      "content": "The latest product launch has exceeded sales projections, driving market enthusiasm.",
+      "impact": 0.026988902323911077,
+      "affectedStocks": [
+        "NFLX"
+      ],
+      "timestamp": "2025-09-16T12:01:47.209Z",
+      "isRead": false
+    },
+    {
+      "title": "Market News: Economic Data Surprises Markets",
+      "content": "Latest economic indicators have surprised analysts with stronger than expected results.",
+      "impact": 0.022985298909146395,
+      "affectedStocks": [],
+      "timestamp": "2025-09-16T12:01:37.194Z",
+      "isRead": false
+    },
+    {
+      "title": "Market News: Global Trade Tensions Ease",
+      "content": "Recent diplomatic developments suggest easing of international trade tensions.",
+      "impact": 0.026688793552851715,
+      "affectedStocks": [],
+      "timestamp": "2025-09-16T11:31:02.613Z",
+      "isRead": false
+    },
+    {
+      "title": "Microsoft Corp.: Strong Consumer Demand",
+      "content": "Consumer spending data shows robust demand for products and services.",
+      "impact": 0.01754650969781742,
+      "affectedStocks": [
+        "MSFT"
+      ],
+      "timestamp": "2025-09-16T11:30:52.609Z",
+      "isRead": false
+    },
+    {
+      "title": "Netflix Inc.: Strong Consumer Demand",
+      "content": "Consumer spending data shows robust demand for products and services.",
+      "impact": 0.022837323964938448,
+      "affectedStocks": [
+        "NFLX"
+      ],
+      "timestamp": "2025-09-16T11:30:42.601Z",
+      "isRead": false
+    },
+    {
+      "title": "Lyft Inc.: Strategic Partnership Announced",
+      "content": "New partnership deal opens up significant growth opportunities.",
+      "impact": 0.03915570050548374,
+      "affectedStocks": [
+        "LYFT"
+      ],
+      "timestamp": "2025-09-16T11:30:12.579Z",
+      "isRead": false
+    },
+    {
+      "title": "Lyft Inc.: Market Volatility Increases",
+      "content": "Global market conditions are causing increased volatility across sectors.",
+      "impact": -0.019338552190779488,
+      "affectedStocks": [
+        "LYFT"
+      ],
+      "timestamp": "2025-09-16T11:28:12.500Z",
+      "isRead": false
+    }
+  ],
+  "lastUpdated": "2025-09-16T12:29:22.363Z"
+}
